@@ -9,4 +9,4 @@
 <a href="https://instagram.com/2timeowl?igshid=1p17hruv5cg68"><img title="2Timeowl" src="https://img.shields.io/badge/2TIME-OWL-green"></a>
 </p>
 
-This tool is for installing PhoneInfoga which is Information gathering & OSINT reconnaissance tool for phone numbers
+<h4 align="center">This tool is for installing PhoneInfoga which is Information gathering & OSINT reconnaissance tool for phone numbers</h4>
