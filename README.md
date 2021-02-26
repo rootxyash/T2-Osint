@@ -33,3 +33,10 @@ PhoneInfoga is one of the most advanced tools to scan phone numbers using only f
 
 ## Subscribe our channel on youtube:
 https://youtube.com/channel/UCl5oG2xGkLWE0hJeTg-wOSg
+
+### Instagram: 
+https://instagram.com/2timeowl?igshid=1p17hruv5cg68
+
+### 📢 Warning
+
+***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
