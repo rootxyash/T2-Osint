@@ -23,7 +23,7 @@ sleep 2.0
 echo -e '\033[1;91m[''\033[0m*''\033[1;91m]''\033[1;91m Please Subscribe My YT Channel = 2Timeowl'
 echo
 sleep 2.0
-echo -e '\033[1;91m[''\033[0m*''\033[1;91m]''\033[1;91m YouTube link = https://youtube.com/channel/UCl5oG2xGkLWE0hJeTg-wOSg'
+echo -e '\033[1;91m[''\033[0m*''\033[1;91m]''\033[1;91m YouTube Channel link = https://youtube.com/channel/UCl5oG2xGkLWE0hJeTg-wOSg'
 echo
 sleep 2.0
 echo -e '\033[1;92m[''\033[0m*''\033[1;92m]''\033[1;92m Please wait...'
