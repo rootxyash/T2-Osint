@@ -17,7 +17,7 @@ echo -e "\x1b[91m
 termux-setup-storage
 sleep 7.0
 rm -rf T2-Osint.sh > /dev/null 2>&1
-echo -e '\033[1;91m[''\033[0m*''\033[1;91m]''\033[1;91m This Script i.e 2TIMEOWL will install phoneinfoga'
+echo -e '\033[1;91m[''\033[0m*''\033[1;91m]''\033[1;91m This Script i.e 2TIMEOWL will install Phoneinfoga'
 echo
 sleep 2.0
 echo -e '\033[1;91m[''\033[0m*''\033[1;91m]''\033[1;91m Please Subscribe My YT Channel = 2Timeowl'
