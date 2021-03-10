@@ -15,7 +15,7 @@
 - <b>Silent installation:</b></br>
 Copy and paste the following command in Termux to silently install PhineInfoga Tool:<br/>
 ```Wget https://raw.githubusercontent.com/2Timeowl/T2-Osint/master/T2-Osint.sh```<br/>
-
+* bash T2-Osint.sh
 
 ### About
 
