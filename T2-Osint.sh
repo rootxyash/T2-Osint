@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author : B1B3K S4H
+# Author : TECHNOCYBER
 # Copyright ©2020
 # Script follows here:
 clear
@@ -20,10 +20,10 @@ rm -rf T2-Osint.sh > /dev/null 2>&1
 echo -e '\033[1;91m[''\033[0m*''\033[1;91m]''\033[1;91m This Script T2-Osint will install Phoneinfoga'
 echo
 sleep 2.0
-echo -e '\033[1;91m[''\033[0m*''\033[1;91m]''\033[1;91m Subscribe My YT Channel = 2Timeowl'
+echo -e '\033[1;91m[''\033[0m*''\033[1;91m]''\033[1;91m Follow me on Instagram = https://Instagram/Technocyber.sh '
 echo
 sleep 2.0
-echo -e '\033[1;91m[''\033[0m*''\033[1;91m]''\033[1;91m YouTube Channel link = https://youtube.com/channel/UCl5oG2xGkLWE0hJeTg-wOSg'
+echo -e '\033[1;91m[''\033[0m*''\033[1;91m]''\033[1;91m For Any Queries Contact Me = +91 9960524818 '
 echo
 sleep 2.0
 echo -e '\033[1;92m[''\033[0m*''\033[1;92m]''\033[1;92m Please wait...'
