@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center
   <img src="https://i.imgur.com/LtUGnF3.png" width=500 />
 </p>
 <p align="center">
@@ -6,7 +6,7 @@
 </p>
 </p>
 <p align="center">
-<a href="https://instagram.com/2timeowl?igshid=1p17hruv5cg68"><img title="2Timeowl" src="https://img.shields.io/badge/2TIME-OWL-green"></a>
+<a href="https://instagram.com/Technocyber.sh?igshid=1p17hruv5cg68"><img title="2Timeowl" src="https://img.shields.io/badge/TECHNO-CYBER-green"></a>
 </p>
 
 <h4 align="center">This script is made for installing PhoneInfoga which is Information gathering & OSINT reconnaissance tool for phone numbers.</h4>
@@ -14,7 +14,7 @@
 ### Installation Commands
 - <b>Silent installation:</b></br>
 Copy and paste the following command in Termux to silently install PhineInfoga Tool:<br/>
-```Wget https://raw.githubusercontent.com/2Timeowl/T2-Osint/master/T2-Osint.sh```<br/>
+```Wget https://raw.githubusercontent.com/Technocyber/T2-Osint/master/T2-Osint.sh```<br/>
 * bash T2-Osint.sh
 
 ### About
@@ -35,7 +35,7 @@ PhoneInfoga is one of the most advanced tools to scan phone numbers using only f
 https://youtube.com/channel/UCl5oG2xGkLWE0hJeTg-wOSg
 
 ### Instagram: 
-https://instagram.com/2timeowl?igshid=1p17hruv5cg68
+https://instagram.com/technocyber?igshid=1p17hruv5cg68
 
 ### 📢 Warning
 
