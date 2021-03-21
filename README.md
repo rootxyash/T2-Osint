@@ -1,13 +1,19 @@
+<p align="center">
+<a href="https://bit.ly/2OT7U1G"><img title="YouTube" src="https://img.shields.io/badge/Made In-India-red?style=for-the-badge&logo="></a>
+</p>
+<a href="https://linktr.ee/2Timeowl"><img src="PicsArt_03-09-11.12.02.png"></a>
+</p>
 <p align="center
   <img src="https://i.imgur.com/LtUGnF3.png" width=500 />
+<p align="center">
+<a href="https://gitHub.com/Technocyber"><img title="Github" src="https://img.shields.io/badge/Techno-Cyber-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://bit.ly/2OT7U1G"><img title="Instagram" src="https://img.shields.io/badge/Instagram-Technocyber.sh-yellow?style=for-the-badge&logo=Instagram"></a>
 </p>
 <p align="center">
-<a href="https://youtube.com/channel/UCl5oG2xGkLWE0hJeTg-wOSg"><img title="2TIMEOWL" src="https://img.shields.io/badge/MADE%20IN-INDIA-orange"></a>
-</p>
-</p>
+<a href="https://t.me/T4CHNOCYBER"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://linktr.ee/2Timeowl"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://bit.ly/391e3Qh"><img title="YouTube" src="https://img.shields.io/badge/YouTube-purple?style=for-the-badge&logo=YouTube"></a>
 <p align="center">
-<a href="https://instagram.com/Technocyber.sh?igshid=1p17hruv5cg68"><img title="2Timeowl" src="https://img.shields.io/badge/TECHNO-CYBER-green"></a>
-</p>
 
 <h4 align="center">This script is made for installing PhoneInfoga which is Information gathering & OSINT reconnaissance tool for phone numbers.</h4>
 
