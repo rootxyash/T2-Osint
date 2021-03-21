@@ -4,7 +4,7 @@
 <a href="https://linktr.ee/2Timeowl"><img src="PicsArt_03-09-11.12.02.png"></a>
 </p>
 <p align="center
-  <img src="https://i.imgur.com/LtUGnF3.png" width=500 />
+  <img src="images_1_1.png" width=500" />
 <p align="center">
 <a href="https://gitHub.com/Technocyber"><img title="Github" src="https://img.shields.io/badge/Techno-Cyber-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://bit.ly/2OT7U1G"><img title="Instagram" src="https://img.shields.io/badge/Instagram-Technocyber.sh-yellow?style=for-the-badge&logo=Instagram"></a>
