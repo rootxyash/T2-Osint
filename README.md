@@ -1,7 +1,7 @@
 <p align="center">
-<a href="https://bit.ly/2OT7U1G"><img title="YouTube" src="https://img.shields.io/badge/Made In-India-red?style=for-the-badge&logo="></a>
+<a href="https://Technocyber.ml"><img title="YouTube" src="https://img.shields.io/badge/Made In-India-red?style=for-the-badge&logo="></a>
 </p>
-<a href="https://linktr.ee/2Timeowl"><img src="images_1_1.png"></a>
+<a href="https://Technocyber.ml"><img src="images_1_1.png"></a>
 </p>
 <p align="center
   <img src="images_1_1.png" width=500" />
